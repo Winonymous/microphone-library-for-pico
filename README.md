@@ -12,6 +12,8 @@ Capture audio from a microphone on your [Raspberry Pi Pico](https://www.raspberr
      * [Electret Microphone Amplifier - MAX9814 with Auto Gain Control](https://www.adafruit.com/product/1713) 
    * PDM
      * [Adafruit PDM MEMS Microphone Breakout](https://www.adafruit.com/product/3492)
+   * I2S
+     * INMP411 I2S Microphone
 
 ### Default Pinout
 
