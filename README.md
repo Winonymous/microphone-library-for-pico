@@ -35,6 +35,17 @@ Capture audio from a microphone on your [Raspberry Pi Pico](https://www.raspberr
 | GPIO 2 | DAT |
 | GPIO 3 | CLK |
 
+#### I2S Microphone
+
+| Raspberry Pi Pico / RP2040 | I2S Microphone |
+| -------------------------- | ----------------- |
+| 3.3V | VCC |
+| GND | GND |
+| GND | L/R |
+| GPIO 6 | DAT |
+| GPIO 3 | SCK |
+| GPIO 4 | WS |
+
 GPIO pins are configurable in examples or API.
 
 ## Examples
