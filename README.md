@@ -85,7 +85,7 @@ This project was created on behalf of the [Arm Software Developers](https://deve
 
 The [OpenPDM2PCM](https://os.mbed.com/teams/ST/code/X_NUCLEO_CCA02M1//file/53f8b511f2a1/Middlewares/OpenPDM2PCM/) library is used to filter raw PDM data into PCM. The [TinyUSB](https://github.com/hathach/tinyusb) library is used in the `usb_microphone` example.
 
-The I2S example was built based on the (PICO SERIAL)[https://github.com/biemster/pico-serialmic] made by biemster
+The I2S example was built based on the [PICO SERIAL] (https://github.com/biemster/pico-serialmic) made by biemster
 
 ---
 
